@@ -3,7 +3,7 @@ body {
   font-family: "Roboto", sans-serif;
 }
 a {
-  color: #885df1;
+  color: #5db6f1;
 }
 .weather-app {
   background: white;
@@ -58,6 +58,7 @@ main {
   font-size: 88px;
   margin-left: 10px;
   line-height: 88px;
+  font-weight: bold;
 }
 .weather-app-icon {
   width: 88px;
